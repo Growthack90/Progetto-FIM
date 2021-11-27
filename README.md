@@ -1,6 +1,6 @@
 # Diversamente Felici Insieme
 
-## FIM – Family International Map)
+## FIM – Family International Map
 
 ## ABSTRACT
 
