@@ -28,3 +28,8 @@ L’idea nasce da un reale bisogno con cui si scontrano le tantissime famiglie c
 -	Disabilità psichica
 
 Il portatore di handicap viene definita quella persona che, ha una minorazione fisica, psichica sensoriale stabilizzata o progressiva e che causa di difficoltà di apprendimento, relazione o integrazione lavorativa portando ad emarginazione e svantaggio sociale.
+
+#### Link del progetto
+https://github.com/Growthack90/Progetto-FIM
+
+
