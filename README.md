@@ -29,6 +29,16 @@ L’idea nasce da un reale bisogno con cui si scontrano le tantissime famiglie c
 
 Il portatore di handicap viene definita quella persona che, ha una minorazione fisica, psichica sensoriale stabilizzata o progressiva e che causa di difficoltà di apprendimento, relazione o integrazione lavorativa portando ad emarginazione e svantaggio sociale.
 
+
+#### Input progetto
+
+Il progetto ha avuto origine da un lavoro di gruppo del corso di "Digital Marketing and Management" svolto con la partecipazione di:
+
+Nadia De Marzo
+Annarita Miuli
+Maddalena Spingola
+Mara Mondego
+Domenico Petrosillo
 #### Link del progetto
 https://growthack90.github.io/Progetto-FIM/
 
