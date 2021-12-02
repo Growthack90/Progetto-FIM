@@ -34,11 +34,11 @@ Il portatore di handicap viene definita quella persona che, ha una minorazione f
 
 Il progetto ha avuto origine da un lavoro di gruppo del corso di "Digital Marketing and Management" svolto con la partecipazione di:
 
-Nadia De Marzo
-Annarita Miuli
-Maddalena Spingola
-Mara Mondego
-Domenico Petrosillo
+- Nadia De Marzo
+- Annarita Miuli
+- Maddalena Spingola
+- Mara Mondego
+- Domenico Petrosillo
 #### Link del progetto
 https://growthack90.github.io/Progetto-FIM/
 
